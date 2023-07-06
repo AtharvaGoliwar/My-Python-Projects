@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    font-style: italic;
+   
+}
+#first{
+    background-color: aqua;
+    color: blue;
+}
+#table{
+    background-color: burlywood;
+    border-style: dotted
+
+}
+#head{
+    color: cadetblue;
+}
+.lab{
+    background-color: aquamarine;
+    color: royalblue;
+    background-size: 344px 344px;
+}
+.img{
+    background-repeat: no-repeat;
+    background-image: url("gg.jpg");
+    width: 344px;
+    height: 144px;
+    background-size: contain;
+
+}
